@@ -1,0 +1,2 @@
+-Corrigir as tags h1, dando enfase aos titulos dos artigos
+-Colocar os Headers em todas as paginas
