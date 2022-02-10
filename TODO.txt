@@ -1,5 +1,6 @@
 -Corrigir as tags h1, dando enfase aos titulos dos artigos
 -Colocar os Headers em todas as paginas
 -Ajustar a quebra de linhas que faz com que a primeira barra divisoria se mova quando entra em qualquer artigo
+    solução: margin-top:1em e margin-bottom:1em
 
 OBS.: index e ócio já foram feitos, seguir modelo do ócio
